@@ -7,6 +7,7 @@ Algorithm to do my statistics homework
 - [ ] Mode
 - [x] Standart deviation
 - [x] Variance
+- [ ] Plot tables and charts
 
 ## What dows it use?
 Just ```numpy``` and ```statistics``` library.
